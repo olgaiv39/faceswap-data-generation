@@ -1,0 +1,9 @@
+cd ..
+cd videos
+mkdir additional_news
+cd additional_news
+youtube-dl https://www.youtube.com/watch?v=yIEA7U_T8WA&feature=youtu.be
+youtube-dl https://www.youtube.com/watch?v=I75kfAVF64A&feature=youtu.be
+youtube-dl https://www.youtube.com/watch?v=qnvsgtt3Xn0&feature=youtu.be
+cd ..
+cd ..
